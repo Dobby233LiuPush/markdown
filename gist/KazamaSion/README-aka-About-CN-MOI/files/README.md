@@ -1,23 +1,33 @@
 EDITED BY DOBBY233LIU ORIG DOC BY KAZAMASION
 
-Man on the Internet **创作配音和歌曲**（那也是大型音乐剧的一部分）。网络是唯一可以支持我们制作内容的平台，也是让人们相聚的平台。我们的视频可以免费观看，**如果您能赞助我们，那将能使我们更加专注地为像你们这样的观众创作内容！**  
+SEE THE [README](https://github.com/Dobby233LiuPush/markdown/tree/master/gist/KazamaSion/README-aka-About-CN-MOI#readme) TO GET ORIGNAL DOC OR LOOK [ORIGNAL FILE FOR NOW (NOT SURE)](/.README-orignal.md)
 
-给我们[**赞助（Patreon）**](https://www.patreon.com/manontheinternet)，您可以提前获得更新（支持信用卡、PayPal）    
+----------------------
+
+# Man on the Internet a.k.a. MoNetProduction
+
+Man on the Internet 是**创作配音和歌曲**（那也是大型音乐剧的一部分）的团队。网络是唯一可以支持我们制作内容的平台，也是让人们相聚的平台。我们的视频可以免费观看，**如果您能赞助我们，那将能使我们更加专注地为像你们这样的观众创作内容！**  
+
+## 链接们
+
+给我们[**赞助（Patreon）**](https://www.patreon.com/manontheinternet)，您可以提前获得更新（支持信用卡、PayPal）    
 [**Tumblr**](http://manontheinternet.tumblr.com/)                 
 [**Twitter**](https://twitter.com/monetproduction)  
   
+# 代理者
+
 我们在中国的 ACFun & bilibili 开设了频道，若您有问题，可以在 Keybase 里联系 [@KazamaSion](https://keybase.io/kazamasion)...？不存在的！  
 
-#### 讨论群 （没啥用）
+# 讨论群 （没啥用）
 **QQ 群:** [335817224](https://shang.qq.com/wpa/qunwpa?idkey=c6a1a69137acdcb4918df6405d31295211ae1cc7c5177362268d4f2fa59f10ce)     
 [**Telegram 群**](https://t.me/zh_groups_bot?start=getdetail=-1001070205517)  
 
-#### 禁止转载声明（图片不见了）  
+# 禁止转载声明（图片不见了）  
 [![1](https://ooo.0o0.ooo/2017/06/27/59527b672d95c.png)](https://www.youtube.com/channel/UCkWuZ0UvpVzJ2d9n11bQpmA/about)
 
 **翻译：** 转载我的视频到 Dailymotion/bilibili 之类的地方是禁止的，即便是没有做过任何更改也不行。如果我拥有一个在非 YouTube 网站的频道，请让那个频道自由上传和翻译视频。（点击图片可看原文）  
 
-#### Patreon 赞助回报分级
+# Patreon 赞助回报分级
 
 赞助方式请见下方关于赞助的说明。
 
@@ -77,8 +87,8 @@ Man on the Internet **创作配音和歌曲**（那也是大型音乐剧的一�
 包括 Discord 回馈。  
 
 
-**有关代理运营的证明材料（404不存在的）：**  
+# **有关代理运营的证明材料（404不存在的）：**  
 
 [![](https://ooo.0o0.ooo/2017/06/18/594593c3742a0.png)](https://www.patreon.com/posts/11784911)
 
-（编辑者：TODO一下；翻墙去看看这东西）
+#\ （编辑者：TODO一下；翻墙去看看这东西）
