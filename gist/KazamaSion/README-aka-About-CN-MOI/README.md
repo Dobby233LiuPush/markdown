@@ -1,12 +1,12 @@
 EDITED BY DOBBY233LIU ORIG DOC BY KAZAMASION
 
-Man on the Internet **创作配音和歌曲**（那也是大型音乐剧的一部分）。万维网是唯一可以支持我们制作内容的平台，也是让人们相聚的平台。我们的视频可以免费观看，**如果您能赞助我们，那将能使我们更加专注地为像你们这样的观众创作内容！**  
+Man on the Internet **创作配音和歌曲**（那也是大型音乐剧的一部分）。网络是唯一可以支持我们制作内容的平台，也是让人们相聚的平台。我们的视频可以免费观看，**如果您能赞助我们，那将能使我们更加专注地为像你们这样的观众创作内容！**  
 
 给我们[**赞助（Patreon）**](https://www.patreon.com/manontheinternet)，您可以提前获得更新（支持信用卡、PayPal）    
 [**Tumblr**](http://manontheinternet.tumblr.com/)                 
 [**Twitter**](https://twitter.com/monetproduction)  
   
-我们在中国的 acfun & bilibili 开设了频道，若您有问题，可以在 Keybase 联系 [@KazamaSion](https://keybase.io/kazamasion)...？不存在的！  
+我们在中国的 ACFun & bilibili 开设了频道，若您有问题，可以在 Keybase 里联系 [@KazamaSion](https://keybase.io/kazamasion)...？不存在的！  
 
 #### 讨论群 （没啥用）
 **QQ 群:** [335817224](https://shang.qq.com/wpa/qunwpa?idkey=c6a1a69137acdcb4918df6405d31295211ae1cc7c5177362268d4f2fa59f10ce)     
