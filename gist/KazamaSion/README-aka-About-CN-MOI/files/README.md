@@ -1,6 +1,6 @@
 EDITED BY DOBBY233LIU ORIG DOC BY KAZAMASION
 
-SEE THE [README](https://github.com/Dobby233LiuPush/markdown/tree/master/gist/KazamaSion/README-aka-About-CN-MOI#readme) TO GET ORIGNAL DOC OR LOOK [ORIGNAL FILE FOR NOW (NOT SURE)](/.README-orignal.md)
+SEE THE [README](https://github.com/Dobby233LiuPush/markdown/tree/master/gist/KazamaSion/README-aka-About-CN-MOI#readme) TO GET ORIGNAL DOC OR LOOK [ORIGNAL FILE FOR NOW (NOT SURE)](https://github.com/Dobby233LiuPush/markdown/blob/master/gist/KazamaSion/README-aka-About-CN-MOI/files/README-orignal.md)
 
 ----------------------
 
