@@ -6,7 +6,7 @@ Man on the Internet **创作配音和歌曲**（那也是大型音乐剧的一�
 [**Tumblr**](http://manontheinternet.tumblr.com/)                 
 [**Twitter**](https://twitter.com/monetproduction)  
   
-我们在中国的 acfun & bilibili 开设了频道，若您有问题，可以联系 [@风间诗音](https://keybase.io/kazamasion)...？不存在的！  
+我们在中国的 acfun & bilibili 开设了频道，若您有问题，可以在 Keybase 联系 [@KazamaSion](https://keybase.io/kazamasion)...？不存在的！  
 
 #### 讨论群 （没啥用）
 **QQ 群:** [335817224](https://shang.qq.com/wpa/qunwpa?idkey=c6a1a69137acdcb4918df6405d31295211ae1cc7c5177362268d4f2fa59f10ce)     
